@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Safvana17/Safvana17/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 👩‍💻 About Me
 
 - 🚀 Full Stack Developer passionate about building web applications.
