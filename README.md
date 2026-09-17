@@ -1,8 +1,8 @@
-# Hi there, I'm Safvana! 👋
+<h1 align="center">Hi 👋, I'm Safvana</h1>
 
-<h3 align="center">
-  Full Stack Developer | MERN Stack | TypeScript
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Developer;Building+Real-World+Applications" />
+</p>
 
 <p align="center">
   Passionate about building scalable applications and solving real-world problems through code.
@@ -93,14 +93,6 @@ into short, shareable links.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safvana17&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safvana17&layout=compact&theme=tokyonight" />
 </p>
 
 ---
